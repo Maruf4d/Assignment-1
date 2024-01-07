@@ -1,0 +1,28 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+
+.web-title{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+#web-title{
+    color: #f0e3e3;
+    text-align: center;
+    font-size: 62px;
+    font-weight: 800;
+    margin-inline: 230px;
+    margin-block: 170px;
+}
+.header{
+    background-image: url('../resources/Banner\ Image.png');
+    margin: 60px auto;
+    width: 1120px;
+    height: 540px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
