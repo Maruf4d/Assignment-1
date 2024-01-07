@@ -2,7 +2,7 @@ body{
     font-family: 'Merriweather', serif;
 }
 
-.web-title{
+#web-title{
     color: #ffffff;
     text-align: center;
     font-size: 32px;
@@ -10,8 +10,8 @@ body{
     
 
 }
-#web-title{
-    color:#ffffff;
+.web-value{
+    color: #ffffff;
     text-align: center;
     font-size: 80px;
     font-weight: 800;
@@ -51,6 +51,10 @@ nav{
     font-size: 40px;
     font-weight: 800;
 }
+#add-photo{
+    text-align: center;
+    margin: 50px 190px 50px 190px;
+}
+ 
 
 
-    
