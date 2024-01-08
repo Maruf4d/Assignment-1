@@ -51,10 +51,43 @@ nav{
     font-size: 40px;
     font-weight: 800;
 }
-#add-photo{
+.file{
     text-align: center;
-    margin: 50px 190px 50px 190px;
+    margin: 50px 190px 55px 190px;
 }
- 
+.welcome{
+color: #ffffff;
+font-size: 64px;
+font-weight: 900;
+max-width: 694px;
+max-height: 400px;
+}
+.text-pera{
+color: rgba(255, 255, 255, 0.80);
+font-size: 24px;
+font-weight: 400;
+max-width: 900px;
+}
+.btn{
+color: #0fff4b;
+font-size: 20px;
+font-weight: 700;
+text-align: center;
+display: flex;
+}
+.pic{
+    background-image: url('../resources/Vectorrr.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1380px;
+    height:820px;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 200px;
+}
+.text-img{
+    text-align: end;
 
+}
 
