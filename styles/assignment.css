@@ -122,7 +122,7 @@ font-weight: 600;
     padding: 16px 32px 16px 32px;
     border-radius: 10px;
 }
-.main-header{
+.section-header{
     display: flex;
     margin: 150px 20px 100px 20px;
     border: 2px solid black;
