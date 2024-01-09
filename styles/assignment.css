@@ -3,7 +3,7 @@ body{
     max-width: 1200px;
     margin-left: 20px;
     width: 1600px;
-    height: 6500px;
+    height: 6100px;
     
     
 }
@@ -177,7 +177,6 @@ font-weight: 600;
     margin-bottom: 50px;
    text-align: justify;
 }
-
 
 .other{
     color: #F00;
